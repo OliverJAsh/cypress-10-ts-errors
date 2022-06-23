@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "Node",
+        "outDir": "./target",
+        "strict": true,
+        "esModuleInterop": true
+    }
+}
